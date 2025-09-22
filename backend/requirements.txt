@@ -1,0 +1,9 @@
+Flask-Cors
+Pillow
+Flask==2.3.4
+ultralytics==8.2.103
+Werkzeug==2.3.6
+numpy
+
+
+
